@@ -21,6 +21,6 @@ puts "Eu irei comer", (120 * 960), "Chocolates até o final da minha vida!!!"
 
 #Se minha idade é 1232 milhões de segundos, qual é minha idade em anos?
 
-puts "Minha idade é de 1232 milhões de segundos, qual é minha idade em anos é", (8640 * 3600)
+puts "Minha idade é de 1232 milhões de segundos, qual é minha idade em anos é", (1232 * 1000000) / 60 / 60 / 24 / 365
 
 
